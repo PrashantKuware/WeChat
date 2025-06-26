@@ -1,0 +1,10 @@
+Create NPM Project.
+Create index, css, js files.
+Install dependecies, express, nodemon(dev dependecies)
+create a express server (server.js)
+do frontend part
+Install socket.io, setup socket.io, in server.js and clint.js
+clint send message logic in clint.js
+Receive message on server and broadcast to all clints
+Receive message on client and disply it. scroll to bottom etc.
+to run the program (nodemon server.js)
