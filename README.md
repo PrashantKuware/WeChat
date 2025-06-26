@@ -1,4 +1,5 @@
-# WeChatA full-stack chat app built using HTML, CSS, and JavaScript, powered by Socket.IO for real-time communication. This application allows users to send and receive messages instantly on the local network, enabling seamless, low-latency interactions — just like modern chat platforms.
+# WeChat
+A full-stack chat app built using HTML, CSS, and JavaScript, powered by Socket.IO for real-time communication. This application allows users to send and receive messages instantly on the local network, enabling seamless, low-latency interactions — just like modern chat platforms.
 ## Installation
 Clone the project by using.
 ```git clone https://github.com/PrashantKuware/WeChat.git```
@@ -31,3 +32,5 @@ to run the program (nodemon server.js)
 ### Project Screenshot
 
 
+![Screenshot 2025-06-26 232253](https://github.com/user-attachments/assets/5fcc5d9b-6dec-478c-a038-12323d99ddeb)
+![Screenshot 2025-06-26 232313](https://github.com/user-attachments/assets/3077f81d-8a48-4273-a269-c2010a9d6948)
