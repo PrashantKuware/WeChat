@@ -26,8 +26,9 @@ Clone the project by using.
 ⚙️ JavaScript: Adds functionality and interactivity, powering the dynamic behavior and real-time communication logic of the app.
   
 ### Backend Technology Stack:
-- ⚡ Express.js: A web application framework for Node.js, used for building robust APIs and web applications.
-- 🔌 Socket.IO: Enables real-time, bidirectional communication between multiple users simultaneously, allowing seamless interaction and instant message exchange.
+⚡ Express.js: A web application framework for Node.js, used for building robust APIs and web applications.
+
+🔌 Socket.IO: Enables real-time, bidirectional communication between multiple users simultaneously, allowing seamless interaction and instant message exchange.
    
 ### Project Screenshot
 
