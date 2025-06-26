@@ -5,16 +5,16 @@ Clone the project by using.
 ```git clone https://github.com/PrashantKuware/WeChat.git```
 ### Setup in Project
 
--Create NPM Project.
--Create index, css, js files.
--Install dependecies, express, nodemon(dev dependecies)
--create a express server (server.js)
--do frontend part
--Install socket.io, setup socket.io, in server.js and clint.js
--clint send message logic in clint.js
--Receive message on server and broadcast to all clints
--Receive message on client and disply it. scroll to bottom etc.
--to run the program (node server.js)
+- Create NPM Project.
+- Create index, css, js files.
+- Install dependecies, express, nodemon(dev dependecies)
+- create a express server (server.js)
+- do frontend part
+- Install socket.io, setup socket.io, in server.js and clint.js
+- clint send message logic in clint.js
+- Receive message on server and broadcast to all clints
+- Receive message on client and disply it. scroll to bottom etc.
+- to run the program (node server.js)
 
 
 ## What Technology Are Using In This Project
@@ -26,8 +26,8 @@ Clone the project by using.
 ⚙️ JavaScript: Adds functionality and interactivity, powering the dynamic behavior and real-time communication logic of the app.
   
 ### Backend Technology Stack:
- ⚡ Express.js: A web application framework for Node.js, used for building robust APIs and web applications.
-🔌 Socket.IO: Enables real-time, bidirectional communication between multiple users simultaneously, allowing seamless interaction and instant message exchange.
+- ⚡ Express.js: A web application framework for Node.js, used for building robust APIs and web applications.
+- 🔌 Socket.IO: Enables real-time, bidirectional communication between multiple users simultaneously, allowing seamless interaction and instant message exchange.
    
 ### Project Screenshot
 
